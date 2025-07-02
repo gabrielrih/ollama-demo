@@ -1,5 +1,5 @@
 # ollama-demo
-A demo using AI runnin on my local machine (Ollama).
+A demo using AI running on my local machine.
 
 ## Ollama
 
